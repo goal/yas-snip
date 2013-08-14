@@ -1,6 +1,0 @@
-# name: foreach (...) { ... }
-# key: foreach
-# --
-for (${1:mixed i} in ${2:m}) {
-	$0
-}
