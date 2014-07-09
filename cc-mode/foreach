@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: foreach mapping
+# key: form
+# --
+foreach (${1:int key}, ${2:mixed value} in ${3:mpTarget}) {
+    $0
+}
