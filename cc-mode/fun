@@ -1,0 +1,7 @@
+#name : void func(...)
+# key: fun
+# --
+${3:void} ${2:funcname}(${1:arglist})
+{
+    $0
+}
